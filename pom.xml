@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.anthonysantos</groupId>
+    <groupId>io.seagull</groupId>
     <artifactId>SparkHelloWorld</artifactId>
     <version>1.0</version>
 
@@ -78,7 +78,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>io.anthonysantos.BlogService</mainClass>
+                    <mainClass>io.seagull.UserManager</mainClass>
                     <arguments>
                     </arguments>
                 </configuration>
